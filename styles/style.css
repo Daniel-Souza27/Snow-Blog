@@ -1,0 +1,92 @@
+/* Formatações gerais */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #e6e6e6;
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+/* Cabecalho */
+
+.cabecalho{
+    width: 100%;
+    min-width: 770px;
+    text-align: center;
+    padding: 20px;
+    background-color: #00BFFF;
+}
+
+/* Logo */
+.logo{
+    margin-top: 10px;
+}
+.logo h1{
+    color: rgb(47, 46, 46);
+    font-size: 2.5em;
+}
+
+/* Menu */
+.menu{
+    margin-top: 25px;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 7px;
+    margin-right: 5px;
+    border-radius: 4px;
+    
+}
+
+.menu ul li:hover{
+    background-color: #02a4da;
+    
+}
+
+.menu ul li a{
+    margin-top: 10px;
+    
+}
+
+.menu a:link, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+
+.branco{
+    color: white;
+}
+
+/* Conteudo */
+
+.container{
+    width: 920px;
+    margin: 15px auto;
+}
+
+.area-conteudo{
+    width: 660px;
+    float: left;
+
+}
+
+.conteudo{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.conteudo h2{
+    color:#0583ad ;
+}
+
+.data{
+    margin-bottom: 10px;
+    font-size: 0.8em;
+    display: block;
+}
