@@ -90,3 +90,120 @@ body{
     font-size: 0.8em;
     display: block;
 }
+
+.conteudo a:link, a:visited{
+    color: #0583ad;
+    /* color: #00BFFF; */
+    text-decoration: none;
+
+}
+
+.conteudo a:hover{
+   color: #00BFFF;
+}
+
+.clear{
+    clear: right;
+}
+/* Area lateral */
+.area-lateral {
+    width: 240px;
+    float: right;
+}
+
+.conteudo-lateral{
+    background-color: white;
+    padding: 5px;
+}
+.conteudo-lateral h3{
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 15px;
+    text-align: center;
+    box-shadow: 3px 4px 5px black;
+    
+}
+
+.redes-sociais span{
+    box-shadow: 2px 3px 5px black;
+    display: block;
+    text-align: center;
+    border: 1px solid rgb(238, 238, 238);
+    margin: -5px 5px;
+}
+/* Facebook */
+
+
+
+.facebook a:link, a:visited{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #1877f2;
+
+}
+
+.facebook a:hover{
+    
+    color: white;
+}
+
+.facebook:hover{
+    background-color: #3b5998;
+}
+
+/* Instagram */
+.instagram a:link, a:visited{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #E1306C;
+
+}
+
+.instagram a:hover{
+    
+    color: white;
+}
+
+.instagram:hover{
+    background-color: #e02865;
+}
+
+/* Youtube */
+.youtube a:link, a:visited{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #bb0000;
+
+}
+
+.youtube a:hover{
+    
+    color: white;
+}
+
+.youtube:hover{
+    background-color: #bb0000;
+}
+
+/* WhatsApp */
+.whatsapp a:link, a:visited{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #34af23;
+
+}
+
+.whatsapp a:hover{
+    
+    color: white;
+}
+
+.whatsapp:hover{
+    background-color: #34af23;
+}
