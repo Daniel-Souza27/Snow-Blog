@@ -119,8 +119,7 @@ body{
     color: #565656;
     background: #CCC;
     padding: 5px;
-    margin: 5px;
-    margin-bottom: 15px;
+    margin: 5px 5px 15px 5px;
     text-align: center;
     box-shadow: 3px 4px 5px black;
     
@@ -130,7 +129,6 @@ body{
     box-shadow: 2px 3px 5px black;
     display: block;
     text-align: center;
-    /* border: 1px solid rgb(238, 238, 238); */
     margin: -5px 5px;
 }
 /* Facebook */
