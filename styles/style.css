@@ -130,7 +130,7 @@ body{
     box-shadow: 2px 3px 5px black;
     display: block;
     text-align: center;
-    border: 1px solid rgb(238, 238, 238);
+    /* border: 1px solid rgb(238, 238, 238); */
     margin: -5px 5px;
 }
 /* Facebook */
