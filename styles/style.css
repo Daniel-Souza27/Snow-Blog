@@ -158,7 +158,6 @@ body{
     padding: 5px;
     text-decoration: none;
     color: #E1306C;
-
 }
 
 .instagram a:hover{
@@ -167,7 +166,7 @@ body{
 }
 
 .instagram:hover{
-    background-color: #e02865;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
 }
 
 /* Youtube */
