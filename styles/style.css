@@ -44,6 +44,7 @@ body{
 
 .menu ul li:hover{
     background-color: #02a4da;
+    transition: 0.3s ease;
     
 }
 
@@ -146,10 +147,12 @@ body{
 .facebook a:hover{
     
     color: white;
+    transition: 0.2s ease;
 }
 
 .facebook:hover{
     background-color: #3b5998;
+    transition: 0.2s ease;
 }
 
 /* Instagram */
@@ -163,10 +166,12 @@ body{
 .instagram a:hover{
     
     color: white;
+    transition: 0.1s ease;
 }
 
 .instagram:hover{
     background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    transition: 0.2s ease;
 }
 
 /* Youtube */
@@ -181,10 +186,12 @@ body{
 .youtube a:hover{
     
     color: white;
+    transition: 0.2s ease;
 }
 
 .youtube:hover{
     background-color: #bb0000;
+    transition: 0.2s ease;
 }
 
 /* WhatsApp */
@@ -193,14 +200,17 @@ body{
     padding: 5px;
     text-decoration: none;
     color: #34af23;
+   
 
 }
 
 .whatsapp a:hover{
     
     color: white;
+    transition: 0.2s ease;
 }
 
 .whatsapp:hover{
     background-color: #34af23;
+    transition: 0.2s ease;
 }
